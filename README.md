@@ -40,7 +40,7 @@
 
 <br/>
 <h3 align="center">📄 CV:</h3>
-   <a name="cv" href="https://www .canva.com/design/DAE6a4wH6aY/MsAjNs7PZmmFSILhaVsUJg/view?utm_content=DAE6a4wH6aY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
+   <a name="cv" href="https://www.canva.com/design/DAE6a4wH6aY/MsAjNs7PZmmFSILhaVsUJg/view?utm_content=DAE6a4wH6aY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
    <h3><a name="hh" href="https://spb.hh.ru/applicant/resumes/view?resume=3ed8f901ff09bd8f2e0039ed1f49764d365574">CV on hh.ru</a></h3>
 </div>
 
