@@ -50,7 +50,7 @@
 <a name="telegram" href="https://t.me/karpov_igor"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 <a name="watsapp" href="https://wa.me/79135109548"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
 <a name="gmail" href="mailto:karpov.zgr@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a name="linkedin" href="linkedin.com/in/karpucho"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a><br>
+<a name="linkedin" href="https://www.linkedin.com/in/karpucho/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a><br>
 
 <br/>
 <h3 align="center">📂 GitHub Stats:</h3>
