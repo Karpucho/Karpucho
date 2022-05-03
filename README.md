@@ -60,8 +60,8 @@
 
 <br/>
 <h3 align="center">📂 GitHub Stats:</h3>
-<p align='center'>
-<a align="center" href="https://www.adamalston.com/">
+<!-- <p align='center'>
+<a align="center" href="https://www.adamalston.com/"> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Karpucho&show_icons=true&line_height=21&theme=react" alt="Igor Karpov Github Stats" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karpucho&theme=react&line_height=27&layout=compact"/></a>
 </p>
