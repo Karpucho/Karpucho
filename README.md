@@ -53,18 +53,19 @@
 <a name="linkedin" href="https://www.linkedin.com/in/karpucho/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a><br>
 
 <br/>
-<h3 align="center">📂 GitHub Stats:</h3>
-<p align='center'>
-<a align="center" href="https://www.adamalston.com/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Karpucho&show_icons=true&line_height=21&theme=react" alt="Igor Karpov Github Stats" /><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karpucho&theme=react&line_height=27&layout=compact"/></a>
-</p>
-
-<br/>
 <h3 align="center">🤡 Joke of the day:</h3>
 <p align='center'>
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
+
+<br/>
+<h3 align="center">📂 GitHub Stats:</h3>
+<p align='center'>
+<a align="center" href="https://www.adamalston.com/">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Karpucho&show_icons=true&line_height=21&theme=react" alt="Igor Karpov Github Stats" />
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karpucho&theme=react&line_height=27&layout=compact"/></a>
+</p>
+
 <!---
 Karpucho/Karpucho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
