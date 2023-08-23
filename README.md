@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/karpov_igor" target="_blank">Igor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center">I'm inspired of coding and i'm fullstack JS developer</h4><br>
+<h4 align="center">I'm inspired of coding and i'm fullstack JS/TS developer</h4><br>
 
 <h3 align="center">🪓 My Tech Stack:</h3>
 
